@@ -34,7 +34,7 @@
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
 - :mailbox:How to reach me:   </a>
-  <a href="[https://telegram.me/JewDorm](https://discordapp.com/users/ashton0701/)">
+  <a href="https://discordapp.com/users/ashton0701">
     <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Telegram Badge"/>
   </a>
 
