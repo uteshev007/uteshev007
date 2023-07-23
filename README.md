@@ -1,4 +1,5 @@
 <div id="header" align="center">
+   <img src="https://i.gifer.com/2GU.gif" width="200"/>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/askhat-uteshev-5b2101258/">
@@ -32,7 +33,10 @@
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Askhat_Uteshev-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/askhat-uteshev-5b2101258/))
+- :mailbox:How to reach me:   </a>
+  <a href="[https://telegram.me/JewDorm](https://discordapp.com/users/ashton0701/)">
+    <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 
